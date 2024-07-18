@@ -14,7 +14,7 @@ This app allows to perform easy calculation built using react JS
 
 ## Installation
 
-1. `git clone 
+1. `git clone https://github.com/Kaliswari-Swaminathan/calculator.git'
 
 2. `cd calculator`
 
